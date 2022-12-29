@@ -22,10 +22,10 @@
 - [x] Flyweight
 - [x] Proxy
 
-### Command
+### Behavior
 
-- [ ] Chain of Responsibility
-- [ ] Command
+- [x] Chain of Responsibility
+- [x] Command
 - [ ] Iterator
 - [ ] Mediator
 - [ ] Memento
