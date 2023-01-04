@@ -27,7 +27,7 @@
 - [x] Chain of Responsibility
 - [x] Command
 - [x] Iterator
-- [ ] Mediator
+- [x] Mediator
 - [ ] Memento
 - [ ] Observer
 - [ ] State
